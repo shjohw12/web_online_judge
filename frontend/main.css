@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  background-color: #D9EEEA;
+  font-family: Arial;
+}
+
+#bar {
+  position: absolute;
+  width: 100vw;
+  height : 40px;
+  background-color: white;
+}
+
+#problems {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+  color : #056040;
+  font-weight: bold;
+}
+
+#ranking {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 100px;
+  color : #056040;
+  font-weight: bold;
+}
+
+#logout_button {
+  width : 90px;
+  height : 30px;
+  float: right;
+  color: white;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-right: 10px;
+  border-radius: 3px;
+  background-color:  #056040;
+}
+
+#coding_img {
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 100px;
+  width: 576px;
+  height: 324px;
+}
+
+#home_description {
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 700px;
+}
+
+
+
+#home_description p {
+  font-size: 20px;
+}
+
+#pp {
+  font-weight: bold;
+}

@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  background-color: #D9EEEA;
+  font-family: Arial;
+}
+
+#bar {
+  position: absolute;
+  width: 99vw;
+  height : 40px;
+  background-color: white;
+}
+
+#problems {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+  color : #056040;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#ranking {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 100px;
+  color : #056040;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#logout_button {
+  width : 90px;
+  height : 30px;
+  float: right;
+  color: white;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-right: 10px;
+  border-radius: 3px;
+  background-color:  #056040;
+}
+
+#contents {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top : 100px;
+  text-align: center;
+}
+
+.io {
+  border: 1px solid black;
+  background-color: #F7F7F9;
+  text-align: left;
+}
+
+.bold {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#submit {
+  width: 80px;
+  height : 30px;
+}

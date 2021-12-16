@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ONLINE JUDGE</title>
+    <link rel="stylesheet" href="problem.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="problem.js"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+        });
+    </script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+  </head>
+  <body>
+
+    <div id="bar" class="">
+
+      <p id="problems">Problems</p>
+      <p id="ranking">Ranking</p>
+
+      <button id="logout_button" type="button" name="button">Logout</button>
+
+    </div>
+
+
+
+    <div id="contents">
+      <p class="bold">Description</p>
+      <p>Given N numbers, write a program that sorts them in ascending order.</p>
+      <p>$1<=N<=2\cdot 10^5$</p>
+
+      <p class="bold">Sample input</p>
+
+        <div class="io">
+          <p>5</p>
+          <p>5 4 3 2 1</p>
+        </div>
+
+      <p class="bold">Sample output</p>
+
+        <div class="io">
+          <p>1 2 3 4 5</p>
+        </div>
+
+        <br>
+
+        <input type="radio" name="lang" value="cpp" id="cpp">C++
+        <input type="radio" name="lang" value="py" id="py">Python3
+
+        <br>
+        <br>
+
+        <textarea id="code" name="name" rows="30" cols="80"></textarea>
+
+        <br>
+        <br>
+
+        <button id="submit" type="button" name="button">Submit</button>
+
+        <br>
+        <br>
+        <br>
+
+        <p id="problem_id" class="info">1000</p>
+        <p id="time_limit" class="info">1</p>
+        <p id="memory_limit" class="info">256</p>
+        <p id="test_case" class="info">3</p>
+
+
+
+    </div>
+
+
+
+
+
+  </body>
+</html>

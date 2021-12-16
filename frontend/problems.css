@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  background-color: #D9EEEA;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+#bar {
+  position: absolute;
+  width: 100vw;
+  height : 40px;
+  background-color: white;
+}
+
+#problems {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+  color : #056040;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#ranking {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 100px;
+  color : #056040;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#logout_button {
+  width : 90px;
+  height : 30px;
+  float: right;
+  color: white;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-right: 10px;
+  border-radius: 3px;
+  background-color:  #056040;
+}
+
+table {
+  position: absolute;
+  width:100%;
+  top : 100px;
+  text-align: center;
+  border: 1px solid black;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+
+table tr {
+  background-color: white;
+}
+
+table td {
+  border-top: 1px solid black;
+}
+
+#th {
+  background-color: #D9EEEA;
+  height: 50px;
+}
+
+
+#th1 {
+  width:20%;
+}
+
+#th2 {
+  width:40%;
+}
+
+#th3 {
+  width:20%;
+}
+
+#th4 {
+  width:20%;
+}

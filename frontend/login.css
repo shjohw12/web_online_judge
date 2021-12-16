@@ -1,0 +1,189 @@
+body {
+  background-color: #D9EEEA;
+  font-family: Arial;
+}
+
+#main_box {
+  position: absolute;
+  left : 500px;
+  top : 100px;
+  width: 450px;
+  height: 400px;
+  background-color: #1E2226;
+}
+
+#login_mode {
+  position: absolute;
+  left : 500px;
+  top : 100px;
+  width:225px;
+  height:50px;
+  background-color: white;
+  text-align: center;
+}
+
+#login_bar {
+  position: absolute;
+  left : 500px;
+  top : 100px;
+  width:225px;
+  height:5px;
+  background-color: green;
+}
+
+#signup_mode {
+  position: absolute;
+  left : 725px;
+  top : 100px;
+  width: 225px;
+  height: 50px;
+
+  background-color: #DEDEDE;
+  text-align: center;
+  color: grey;
+}
+
+#signup_bar {
+  position: absolute;
+  left : 725px;
+  top : 100px;
+  width: 225px;
+  height: 5px;
+
+  background-color: #DEDEDE;
+}
+
+#p1 {
+  margin-left: 20px;
+  margin-top: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+#p2 {
+  margin-left: 20px;
+  color: white;
+}
+
+#p3 {
+  margin-left: 20px;
+  color: white;
+}
+
+
+#email_input {
+  margin-left: 20px;
+  color: grey;
+  background-color: black;
+  border-color: white;
+  width : 400px;
+  height : 30px;
+}
+
+#p4 {
+  margin-left: 20px;
+  color: white;
+}
+
+#password_input {
+  margin-left: 20px;
+  color: grey;
+  background-color: black;
+  border-color: white;
+  width : 400px;
+  height : 30px;
+}
+
+#login_button {
+  margin-left: 20px;
+  width : 400px;
+  height : 40px;
+  background-color: green;
+  text-align: center;
+  color: white;
+  line-height: 35px;
+}
+
+#p6 {
+  margin-left: 20px;
+  margin-top: 70px;
+  color: white;
+  font-weight: bold;
+}
+
+#p7 {
+  margin-left: 20px;
+  color: white;
+}
+
+#p8 {
+  margin-left: 20px;
+  color: white;
+}
+
+
+#p9 {
+  margin-left: 20px;
+  color: white;
+}
+
+
+#p10 {
+  margin-left: 20px;
+  color: white;
+}
+
+#signup_email_input {
+  margin-left: 20px;
+  color: grey;
+  background-color: black;
+  border-color: white;
+  width: 400px;
+  height : 30px;
+}
+
+#p11 {
+  margin-left: 20px;
+  color: white;
+}
+
+#signup_password_input {
+  margin-left: 20px;
+  color: grey;
+  background-color: black;
+  border-color: white;
+  width: 400px;
+  height : 30px;
+}
+
+#p12 {
+  margin-left: 20px;
+  color: white;
+}
+
+#signup_confirm_password_input {
+  margin-left: 20px;
+  color: grey;
+  background-color: black;
+  border-color: white;
+  width: 400px;
+  height : 30px;
+}
+
+
+#signup_button {
+  margin-left: 20px;
+  width : 400px;
+  height : 40px;
+  background-color: green;
+  text-align: center;
+  color: white;
+  line-height: 35px;
+}
+
+.signedup {
+  margin-left: 20px;
+  margin-top: 70px;
+  color: white;
+  font-weight: bold;
+}
