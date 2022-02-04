@@ -98,3 +98,8 @@ On the ranking page, you can see the ranking of each user.
 
 ## Backend details
 
+***
+
+## Reference
+
+https://www.secmem.org/blog/2020/11/21/judge-program/
