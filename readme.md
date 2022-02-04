@@ -1,8 +1,6 @@
 # Online algorithm judge
 
-## Frontend details
-
-### Project overview
+## Project overview
 
 ![Alt text](p1.png)
 
@@ -17,6 +15,8 @@ Time and memory measurements are implemented through unix/linux system programmi
 In addition, gcc, python3 and python's flask library should be installed on linux environment.
 
 ***
+
+## Frontend details
 
 ### Sign up page
 
