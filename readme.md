@@ -74,14 +74,6 @@ Enter the code in the text area and press the Submit button to complete the subm
 
 ![Alt text](p14.png)
 
-Upon completion of the submission, you will be directed to the following page.
-
-![Alt text](p15.png)
-
-When the server completes the evaluation, the results can be checked.
-
-![Alt text](p16.png)
-
 After checking the results, there is a button that allows you to enter the main page.
 
 ![Alt text](p17.png)
@@ -97,6 +89,24 @@ On the ranking page, you can see the ranking of each user.
 ***
 
 ## Backend details
+
+![Alt text](p19.png)
+
+Run backend.py in linux environment. In my case, I proceeded in WSL(Windows Subsystem Linux). The server is now ready to receive source code from the user. Let's submit the source code on the web page.
+
+![Alt text](p20.png)
+
+After submission, you will be directed to the following page.
+
+![Alt text](p15.png)
+
+![Alt text](p21.png)
+
+Upon completion of the submission, the server normally receives source code data through the GET request, and the checker.c executable returns the result of measuring the output and time/memory of the user's program to the user (web page) through a POST request.
+
+When the server completes the evaluation, the results can be checked on web page message.
+
+![Alt text](p16.png)
 
 ***
 
